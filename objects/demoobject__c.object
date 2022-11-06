@@ -163,7 +163,7 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
-        <fullName>lastname__c</fullName>
+        <fullName>lastnames__c</fullName>
         <externalId>false</externalId>
         <label>lastname</label>
         <length>11</length>
